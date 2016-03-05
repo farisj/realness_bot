@@ -1,6 +1,5 @@
 require 'twitter'
-require 'open-uri'
-
+require_relative 'twitter_keys'
 SUBJECTS = %w{
   appliances
   breads_and_pastries
@@ -56,7 +55,7 @@ sentence = "." * 141
 while sentence.length > 140
   noun_file = SUBJECTS.sample
 
-  noun = open("#{noun_file}.txt").readlines.sample
+  noun = open("subjects/#{noun_file}.txt").readlines.sample
 
   adjectives = [open('selected_adjectives.txt').readlines.sample(ADJECTIVE_FREQUENCIES.sample)].flatten
 
@@ -65,4 +64,12 @@ while sentence.length > 140
   sentence = (INTRO_PHRASES.sample + phrase + CLOSING_PHRASES.sample).gsub("\n", '')
 end
 
-puts sentence
+client = Twitter::REST::Client.new do |config|
+  config.consumer_key = TWITTER_KEYS[:consumer_key]
+  config.consumer_secret = TWITTER_KEYS[:consumer_secret]
+  config.access_token = TWITTER_KEYS[:access_token]
+  config.access_token_secret = TWITTER_KEYS[:access_token_secret]
+end
+
+puts TWITTER_KEYS['consumer_key']
+client.update(sentence)
