@@ -1,0 +1,416 @@
+Wizard of Oz
+Gone with the Wind
+Godfather
+Jaws
+Citizen Kane
+2001: A Space Odyssey
+Casablanca
+Rocky
+Star Wars
+E.T. the Extra-Terrestrial
+Lawrence of Arabia
+Pulp Fiction
+Shining
+Jurassic Park
+Psycho
+Back to the Future
+Terminator
+Titanic
+Matrix
+Goldfinger
+Lord of the Rings: The Fellowship of the Ring
+Ghostbusters
+To Kill a Mockingbird
+Saturday Night Fever
+Silence of the Lambs
+Fantasia
+Graduate
+Singin' in the Rain
+Ferris Bueller's Day Off
+Raiders of the Lost Ark
+Forrest Gump
+Fight Club
+Top Gun
+Scarface
+Rocky Horror Picture Show
+Rain Man
+It's a Wonderful Life
+Taxi Driver
+Alien
+Annie Hall
+Lion King
+Dr. Strangelove
+Dirty Dancing
+Goodfellas
+A Christmas Story
+One Flew Over the Cuckoo's Nest
+Young Frankenstein
+Princess Bride
+West Side Story
+Big Lebowski
+Airplane!
+Braveheart
+Friday the 13th
+Caddyshack
+Gold Rush
+Toy Story
+12 Angry Men
+Groundhog Day
+Duck Soup
+Close Encounters of the Third Kind
+Schindler's List
+Raging Bull
+Harry Potter and the Sorcerer's Stone
+All the President's Men
+Apocalypse Now
+North by Northwest
+Saving Private Ryan
+A Clockwork Orange
+Some Like It Hot
+Mission: Impossible
+Die Hard
+Vertigo
+Network
+Scream
+An American in Paris
+Roman Holiday
+Big
+Blade Runner
+Public Enemy
+Top Hat
+Who's Afraid of Virginia Woolf?
+Chinatown
+Stagecoach
+Butch Cassidy and the Sundance Kid
+American Beauty
+Sunset Blvd.
+Birth of a Nation
+Poltergeist
+Wild Bunch
+Searchers
+Do the Right Thing
+Boogie Nights
+Reservoir Dogs
+Edward Scissorhands
+Apartment
+28 Days Later
+Moulin Rouge
+Boyz n the Hood
+American Psycho
+American Graffiti
+Beetlejuice
+Night of the Living Dead
+Mean Girls
+Exorcist
+Men in Black
+Being There
+Trading Places
+Heat
+Untouchables
+When Harry Met Sally
+On the Waterfront
+Sleepless in Seattle
+Zoolander
+300
+Rebel Without a Cause
+Great Escape
+Bridge on the River Kwai
+Deer Hunter
+Double Indemnity
+Breakfast Club
+Sixteen Candles
+Sound of Music
+Midnight Cowboy
+Clerks
+Planet of the Apes
+Easy Rider
+Patton
+Breakfast at Tiffany's
+Fast Times at Ridgemont High
+Say Anything...
+Superman
+Shawshank Redemption
+King Kong
+All About Eve
+Mr. Smith Goes to Washington
+Footloose
+12 Years a Slave
+Grease
+Bonnie and Clyde
+A Streetcar Named Desire
+Blazing Saddles
+Willy Wonka & the Chocolate Factory
+Dances with Wolves
+Fatal Attraction
+High Noon
+Spartacus
+Misery
+Kid
+Rosemary's Baby
+Bringing Up Baby
+Snow White and the Seven Dwarfs
+Quiet Man
+Labyrinth
+Scent of a Woman
+My Dinner with Andre
+Meet Me in St. Louis
+Sophie's Choice
+McLintock!
+African Queen
+Holiday Inn
+True Grit
+Dead Poets Society
+Manchurian Candidate
+Tootsie
+Full Metal Jacket
+Usual Suspects
+Avatar
+A Nightmare on Elm Street
+Seven Year Itch
+Eternal Sunshine of the Spotless Mind
+General
+Sandlot
+Mary Poppins
+Gladiator
+Driving Miss Daisy
+Out of Africa
+Boyhood
+Sting
+Thelma & Louise
+Doctor Zhivago
+Giant
+Dirty Harry
+How Green Was My Valley
+Rudy
+Carrie
+There Will Be Blood
+Dark Knight
+No Country for Old Men
+Blue Velvet
+Ghost
+Who Framed Roger Rabbit
+Color Purple
+Brazil
+Birds
+Clueless
+Blair Witch Project
+Fargo
+TRON
+Memento
+Sixth Sense
+Rushmore
+Kill Bill
+Right Stuff
+Requiem for a Dream
+Halloween
+Body Heat
+Dawn of the Dead
+Sin City
+Peter Pan
+Dazed and Confused
+Fear and Loathing in Las Vegas
+Wet Hot American Summer
+Sleeper
+Hustler
+Dog Day Afternoon
+Donnie Darko
+Cool Hand Luke
+They Might Be Giants
+Se7en
+Hurt Locker
+Texas Chain Saw Massacre
+My Fair Lady
+Producers
+Charade
+Anchorman: The Legend of Ron Burgundy
+Best in Show
+Amadeus
+Metropolis
+L.A. Confidential
+Good Will Hunting
+V for Vendetta
+Finding Nemo
+Platoon
+Stand by Me
+Truman Show
+Pirates of the Caribbean: The Curse of the Black Pearl
+Beauty and the Beast
+Malcolm X
+Bad Boys
+Lord of the Rings
+Dark Knight 
+Eternal Sunshine of the Spotless Mind 
+Departed 
+Memento 
+Spirited Away 
+Bourne Ultimatum 
+Lord of the Rings: The Two Towers 
+Almost Famous 
+Finding Nemo 
+Hot Fuzz 
+No Country for Old Men 
+Catch Me If You Can 
+Shaun of the Dead 
+Hurt Locker 
+There Will Be Blood 
+Before Sunset 
+Slumdog Millionaire 
+Oldboy 
+City of God 
+(500) Days of Summer 
+WALL-E 
+Lord of the Rings: The Fellowship of the Ring 
+Letters from Iwo Jima 
+Downfall 
+Children of Men 
+District 9 
+Infernal Affairs 
+Ratatouille 
+Casino Royale 
+Gladiator 
+Up 
+Lives of Others 
+Shrek 
+Pan's Labyrinth 
+Prestige 
+Amélie 
+Little Miss Sunshine 
+Crouching Tiger, Hidden Dragon 
+Borat
+Royal Tenenbaums 
+Incredibles 
+Kill Bill: Vol. 2 
+Avatar 
+Spider-Man 2 
+Sideways 
+Once 
+Batman Begins 
+Into the Wild 
+Wrestler 
+Hero 
+Big Fish 
+Insomnia 
+United 93 
+Inside Man 
+Mystic River 
+Fantastic Mr. Fox 
+A Moment to Remember 
+American Gangster 
+Iron Man 
+Howl's Moving Castle 
+Star Trek 
+Juno 
+In the Loop 
+Minority Report 
+Up in the Air 
+3 Idiots 
+Monsters, Inc. 
+Ponyo 
+Inglourious Basterds 
+Pirates of the Caribbean 
+Simpsons Movie 
+A History of Violence 
+Harry Potter and the Prisoner of Azkaban 
+Girl Who Leapt Through Time 
+Michael Clayton 
+Sin City 
+Chicken Run 
+Shrek 2 
+Moon 
+Atonement 
+Requiem for a Dream 
+Zodiac 
+School of Rock 
+Gone Baby Gone 
+Cast Away 
+Kung Fu Panda 
+Knocked Up 
+Zombieland 
+Sweeney Todd
+A Very Long Engagement 
+A Beautiful Mind 
+Kung Fu Hustle 
+Before the Devil Knows You're Dead 
+She's the Man
+Perks of Being a Wallflower
+Pitch Perfect
+A Walk to Remember
+10 Things I Hate About You
+Wild Child
+She's All That
+Never Back Down
+17 Again
+A Cinderella Story
+Easy A
+John Tucker Must Die
+True Confessions of a Hollywood Starlet
+Aquamarine
+First Time
+Spectacular Now
+G.B.F.
+Geography Club
+Project X
+Fault in Our Stars
+Now Is Good
+Struck by Lightning
+Little Birds
+Can't Buy Me Love
+It's Kind of a Funny Story
+Warm Bodies
+Keith
+Submarine
+Pretty in Pink
+Remember Me
+Cyberbully
+It's a Boy Girl Thing
+Princess Diaries
+Sisterhood of the Traveling Pants
+New York Minute
+Sydney White
+Raise Your Voice
+Bend It Like Beckham
+21 Jump Street
+Bring It On
+Freaky Friday
+Napoleon Dynamite
+Nick and Norah's Infinite Playlist
+American Pie
+Jawbreaker
+Picture This
+Teen Spirit
+Sleepover
+A Cinderella Story: Once Upon a Song
+Juno
+Legally Blonde
+Fright Night
+Hot Chick
+Virgin Suicides
+Heathers
+Stick It
+Fired Up!
+Cruel Intentions
+Superbad
+Whip It
+Art of Getting By
+Ice Princess
+What a Girl Wants
+Charlie Bartlett
+How to Deal
+I Love You, Beth Cooper
+October Baby
+Perfect Score
+I Know What You Did Last Summer
+I Am Number Four
+Teen Wolf
+According to Greta
+Never Been Kissed
+Bandslam
+Can't Hardly Wait
+Drive Me Crazy
+Sorority Wars
+Geek Charming
+Outsiders
+Chasing Liberty
+Wild Cherry
+Monte Carlo
+Beastly

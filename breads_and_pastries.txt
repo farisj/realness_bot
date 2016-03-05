@@ -1,0 +1,49 @@
+bagel
+baguette
+boule
+brioche
+casalinga
+chapati
+ciabatta
+cornbread
+crumpet
+epi
+ficelle
+flatbread
+focaccia
+fruit bread
+hamburger bun
+hardtack
+lavash
+matzoh
+muffin
+naan
+pain au levain
+pain de mie
+paratha
+pita
+potato bread
+pretzel
+pumpernickel
+roti
+rye
+scone
+soda bread
+sourdough
+tortill
+baklava
+bomboloni
+cinnamon roll
+croissant
+cronut
+doughnut
+éclair
+morning bun
+pain au chocolat
+pastel de nata
+profiterole
+rugelach
+shortcake
+stollen
+strudel
+toaster strudel

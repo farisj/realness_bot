@@ -1,0 +1,595 @@
+aquarium
+arcade
+art gallery
+bowling alley
+casino
+circus
+comedy club
+concert hall
+country dance club
+disc golf
+general entertainment
+go kart
+historic site
+laser tag
+mini golf
+movie theater
+museum
+art museum
+history museum
+planetarium
+science museum
+music venue
+jazz club
+piano bar
+rock club
+outdoor sculpture
+performing arts venue
+dance studio
+indie theater
+opera house
+theater
+pool hall
+public art
+racetrack
+roller rink
+salsa club
+stadium
+baseball stadium
+basketball stadium
+cricket ground
+football stadium
+hockey arena
+soccer stadium
+tennis
+track stadium
+street art
+theme park
+theme park ride
+water park
+zoo
+academic building
+communications building
+engineering building
+history building
+math building
+science building
+technology building
+administrative building
+auditorium
+bookstore
+cafeteria
+classroom
+gym
+lab
+library
+quad
+rec center
+residence hall
+stadium
+baseball diamond
+basketball court
+cricket pitch
+football field
+hockey rink
+soccer field
+tennis court
+track
+theater
+community college
+fraternity house
+college
+law school
+medical school
+sorority house
+student center
+trade school
+university
+conference
+convention
+festival
+music festival
+other event
+parade
+stoop sale
+street fair
+afghan restaurant
+african restaurant
+american restaurant
+argentinian restaurant
+asian restaurant
+BBQ joint
+bagel shop
+bakery
+bistro
+breakfast spot
+bubble tea shop
+buffet
+burger joint
+burrito place
+cafeteria
+café
+creole restaurant
+coffee shop
+comfort food restaurant
+creperie
+cuban restaurant
+cupcake shop
+czech restaurant
+deli / bodega
+dessert shop
+dim sum restaurant
+diner
+distillery
+donut shop
+dumpling restaurant
+eastern european restaurant
+english restaurant
+ethiopian restaurant
+falafel restaurant
+fast food restaurant
+filipino restaurant
+fish & chips shop
+fondue restaurant
+food truck
+french restaurant
+fried chicken joint
+gastropub
+german restaurant
+gluten-free restaurant
+greek restaurant
+bougatsa shop
+cretan restaurant
+fish taverna
+grilled meat restaurant
+halal restaurant
+hawaiian restaurant
+hot dog joint
+hotpot restaurant
+hungarian restaurant
+ice cream shop
+indian restaurant
+north indian restaurant
+meatball place
+irish pub
+italian restaurant
+japanese restaurant
+jewish restaurant
+juice bar
+korean restaurant
+kosher restaurant
+latin american restaurant
+empanada restaurant
+mac & cheese joint
+malaysian restaurant
+mediterranean restaurant
+mexican restaurant
+middle eastern restaurant
+modern european restaurant
+molecular gastronomy restaurant
+mongolian restaurant
+moroccan restaurant
+new american restaurant
+pakistani restaurant
+persian restaurant
+peruvian restaurant
+pie shop
+pizza place
+polish restaurant
+portuguese restaurant
+ramen / noodle house
+restaurant
+romanian restaurant
+russian restaurant
+salad place
+sandwich place
+scandinavian restaurant
+seafood restaurant
+snack place
+soup place
+south american restaurant
+soul food restaurant
+souvlaki shop
+spanish restaurant
+paella restaurant
+sri lankan restaurant
+steakhouse
+sushi restaurant
+swiss restaurant
+taco place
+tapas restaurant
+tatar restaurant
+tea room
+thai restaurant
+tibetan restaurant
+turkish restaurant
+doner restaurant
+home cooking restaurant
+kebab restaurant
+ukrainian restaurant
+west-ukrainian restaurant
+vegan restaurant
+vietnamese restaurant
+winery
+wings joint
+frozen yogurt
+nightlife spot
+bar
+beach bar
+beer garden
+brewery
+champagne bar
+cocktail bar
+dive bar
+gay bar
+hookah bar
+hotel bar
+karaoke bar
+lounge
+night market
+nightclub
+other nightlife
+pub
+sake bar
+speakeasy
+sports bar
+strip club
+whisky bar
+wine bar
+outdoors & recreation
+athletics & sports
+badminton court
+baseball field
+basketball court
+bowling green
+golf course
+hockey field
+paintball field
+rugby pitch
+skate park
+skating rink
+soccer field
+sports club
+squash court
+tennis court
+volleyball court
+bath house
+bathing area
+beach
+nudist beach
+surf spot
+botanical garden
+bridge
+campground
+castle
+cemetery
+dive spot
+dog run
+farm
+field
+fishing spot
+forest
+garden
+gun range
+harbor / marina
+hot spring
+island
+lake
+lighthouse
+mountain
+national park
+nature preserve
+great outdoors
+palace
+park
+pedestrian plaza
+playground
+plaza
+pool
+rafting
+recreation center
+river
+rock climbing spot
+scenic lookout
+sculpture garden
+ski area
+apres ski bar
+ski chairlift
+ski chalet
+ski lodge
+ski trail
+stable
+city
+county
+country
+neighborhood
+state
+town
+village
+summer camp
+trail
+tree
+vineyard
+volcano
+well
+animal shelter
+auditorium
+building
+club house
+community center
+convention center
+meeting room
+cultural center
+distribution center
+event space
+factory
+fair
+funeral home
+government building
+capitol building
+city hall
+courthouse
+embassy
+fire station
+monument
+police station
+town hall
+library
+medical center
+acupuncturist
+alternative healer
+chiropractor
+dentist's office
+doctor's office
+emergency room
+eye doctor
+hospital
+laboratory
+mental health office
+veterinarian
+military base
+non-profit
+office
+advertising agency
+campaign office
+conference room
+coworking space
+tech startup
+parking
+post office
+prison
+radio station
+recruiting agency
+school
+circus school
+driving school
+elementary school
+flight school
+high school
+language school
+middle school
+music school
+nursery school
+preschool
+private school
+religious school
+swim school
+social club
+spiritual center
+buddhist temple
+church
+hindu temple
+monastery
+mosque
+prayer room
+shrine
+synagogue
+temple
+tv station
+voting booth
+warehouse
+residence
+assisted living
+home
+housing development
+residential building
+trailer park
+shop & service
+atm
+adult boutique
+antique shop
+arts & crafts store
+astrologer
+auto garage
+automotive shop
+baby store
+bank
+betting shop
+big box store
+bike shop
+board shop
+bookstore
+bridal shop
+business service
+camera store
+candy store
+car dealership
+car wash
+carpet store
+check cashing service
+chocolate shop
+christmas market
+clothing store
+accessories store
+boutique
+kids store
+lingerie store
+men's store
+shoe store
+women's store
+comic shop
+construction & landscaping
+convenience store
+cosmetics shop
+costume shop
+credit union
+daycare
+department store
+design studio
+discount store
+dive shop
+pharmacy
+dry cleaner
+ev charging station
+electronics store
+event service
+fabric shop
+financial or legal service
+fireworks store
+fishing store
+flea market
+flower shop
+food & drink shop
+beer store
+butcher
+cheese shop
+farmers market
+fish market
+food court
+gourmet shop
+grocery store
+health food store
+liquor store
+organic grocery
+street food gathering
+supermarket
+wine shop
+frame store
+fruit & vegetable store
+furniture / home store
+gaming cafe
+garden center
+gas station
+gift shop
+gun shop
+gym / fitness center
+boxing gym
+climbing gym
+cycle studio
+gym pool
+gymnastics gym
+gym
+martial arts dojo
+track
+yoga studio
+hardware store
+herbs & spices store
+hobby shop
+home service
+hunting supply
+IT services
+internet cafe
+jewelry store
+knitting store
+laundromat
+laundry service
+lawyer
+leather goods store
+locksmith
+lottery retailer
+luggage store
+mall
+marijuana dispensary
+market
+massage studio
+mattress store
+miscellaneous shop
+mobile phone shop
+motorcycle shop
+music store
+nail salon
+newsstand
+optical shop
+other repair shop
+outdoor supply store
+outlet store
+office supplies store
+pawn shop
+perfume shop
+pet service
+pet store
+photography lab
+piercing parlor
+pop-up shop
+print shop
+real estate office
+record shop
+recording studio
+recycling facility
+salon / barbershop
+shipping store
+shoe repair
+smoke shop
+smoothie shop
+souvenir shop
+spa
+sporting goods shop
+stationery store
+storage facility
+tailor shop
+tanning salon
+tattoo parlor
+thrift / vintage store
+toy / game store
+travel agency
+used bookstore
+video game store
+video store
+warehouse store
+watch repair shop
+travel & transport
+airport
+airport food court
+airport gate
+airport lounge
+airport terminal
+airport tram
+plane
+bike rental / bike share
+boat or ferry
+border crossing
+bus station
+bus line
+bus stop
+cable car
+general travel
+hotel
+bed & breakfast
+boarding house
+hostel
+hotel pool
+motel
+resort
+roof deck
+intersection
+light rail
+moving target
+pier
+RV park
+rental car location
+rest area
+road
+street
+subway
+taxi stand
+taxi
+toll booth
+toll plaza
+tourist information center
+train station
+platform
+train
+tram
+transportation service
+travel lounge
+tunnel
