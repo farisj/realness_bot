@@ -28,11 +28,6 @@ SUBJECTS = %w{
   venues
 }
 
-STRUCTURES = [
-  {adj: 2, noun: 1},
-  {adj: 1, noun: 2},
-]
-
 INTRO_PHRASES = [
   "Today I'm serving ",
   "Today, I'm serving up some ",
@@ -65,11 +60,10 @@ while sentence.length > 140
 end
 
 client = Twitter::REST::Client.new do |config|
-  config.consumer_key = TWITTER_KEYS[:consumer_key]
-  config.consumer_secret = TWITTER_KEYS[:consumer_secret]
-  config.access_token = TWITTER_KEYS[:access_token]
-  config.access_token_secret = TWITTER_KEYS[:access_token_secret]
+  config.consumer_key = ENV["consumer_key"]
+  config.consumer_secret = ENV["consumer_secret"]
+  config.access_token = ENV["access_token"]
+  config.access_token_secret = ENV["access_token_secret"]
 end
 
-puts TWITTER_KEYS['consumer_key']
 client.update(sentence)
