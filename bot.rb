@@ -1,5 +1,5 @@
 require 'twitter'
-require_relative 'twitter_keys'
+
 SUBJECTS = %w{
   appliances
   breads_and_pastries
