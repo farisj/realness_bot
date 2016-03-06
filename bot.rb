@@ -37,11 +37,9 @@ INTRO_PHRASES = [
 ]
 
 CLOSING_PHRASES = [
-  " realness.",
-  " realness.",
-  " realness.",
+  [" realness."] * 9,
   " eleganza."
-]
+].flatten
 
 ADJECTIVE_FREQUENCIES = [1, 1, 1, 1, 2]
 
@@ -50,7 +48,7 @@ sentence = "." * 141
 while sentence.length > 140
   noun_file = SUBJECTS.sample
 
-  noun = open("subjects/#{noun_file}.txt").readlines.sample
+  noun = open("subjects/#{noun_file}.txt").readlines.sample.strip
 
   adjectives = [open('selected_adjectives.txt').readlines.sample(ADJECTIVE_FREQUENCIES.sample)].flatten
 
