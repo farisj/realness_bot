@@ -15,7 +15,7 @@ black bean
 black-eyed pea
 bok choy
 borlotti bean
-broad beans
+broad bean
 broccoflower
 broccoli
 brussels sprout
@@ -32,7 +32,7 @@ chamomile
 chard
 chayote
 chickpea
-chives
+chive
 cilantro
 collard green
 corn
@@ -66,14 +66,14 @@ lavender
 leek 
 legume
 lemon grass
-lentils
+lentil
 lettuce
 lima bean
 mamey
 mangetout
 marjoram
 mung bean
-mushrooms
+mushroom
 mustard green
 navy bean
 nettles
@@ -86,7 +86,7 @@ paprika
 parsley
 parsnip
 patty pan
-peas
+pea
 pinto bean
 potato
 pumpkin
@@ -112,7 +112,7 @@ tat soi
 thyme
 tomato
 topinambur
-tubers
+tuber
 turnip
 wasabi
 water chestnut

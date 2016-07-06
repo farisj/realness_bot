@@ -57,7 +57,7 @@ street
 trail
 lane
 passage
-crossroads
+crossroad
 intersection 
 fork
 forest

@@ -50,7 +50,7 @@ peony
 petunia
 rhododendron
 rosemary
-roses
+rose
 sage
 snapdragon
 sunflower

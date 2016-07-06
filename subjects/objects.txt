@@ -3,13 +3,12 @@ Christmas ornament
 acorn
 apple
 bag
-bag of cotton balls
+bag of cotton ball
 bag of popcorn
-bag of rubber bands
+bag of rubber band
 ball of yarn
 balloon
 banana
-bananas
 bandana
 bangle bracelet
 bar of soap
@@ -80,8 +79,7 @@ canvas
 car
 card
 carrot
-carrots
-cars
+car
 carton of ice cream
 cat
 catalogue
@@ -142,16 +140,16 @@ eraser
 extension cord
 eye liner
 face wash
-fake flowers
+fake flower
 feather
 feather duster
-few batteries
+few battery
 fish
 fishing hook
 flag
 flashlight
 floor
-flowers
+flower
 flyswatter
 food
 football
@@ -163,7 +161,6 @@ game cartridge
 garden spade
 giraffe
 glass
-glasses
 glow stick
 grid paper
 grocery list
@@ -198,7 +195,7 @@ key
 key chain
 keyboard
 keychain
-keys
+key
 kitchen knife
 knife
 lace
@@ -206,7 +203,7 @@ ladle
 lamp
 lamp shade
 laser pointer
-leg warmers
+leg warmer
 lemon
 letter opener
 light
@@ -238,7 +235,7 @@ mp3 player
 multitool
 music CD
 nail
-nail clippers
+nail clipper
 nail filer
 necktie
 needle
@@ -346,7 +343,7 @@ sheet of paper
 shirt
 shirt button
 shoe lace
-shoes
+shoe
 shopping bag
 shovel
 sidewalk
@@ -357,11 +354,11 @@ snail shell
 snowglobe
 soap
 soccer ball
-socks
+sock
 sofa
 spatula
 speakers 
-spectacles
+spectacle
 spice bottle
 sponge
 spool of ribbon
@@ -378,16 +375,16 @@ stick
 stick of incense
 sticker book
 sticky note
-stockings
+stocking
 stop sign
 straw
-street lights
-sun glasses
+street light
+sunglasses
 sword
 table
 tea cup
 tea pot
-teddies
+teddy
 television
 tennis ball
 tennis racket
@@ -414,16 +411,16 @@ toy soldier
 toy top
 trash bag
 tree
-trucks
+truck
 tube of lip balm
 tube of lipstick
 turtle
 tv
-tweezers
+tweezer
 twister
 umbrella
 vase
-video games
+video game
 wallet
 washcloth
 washing machine
