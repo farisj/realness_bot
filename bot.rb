@@ -1,5 +1,4 @@
 require 'twitter'
-require 'active_support/inflector'
 
 SUBJECTS = %w{
   appliances
@@ -49,7 +48,7 @@ sentence = "." * 141
 while sentence.length > 140
   noun_file = SUBJECTS.sample
 
-  noun = open("subjects/#{noun_file}.txt").readlines.sample.strip.singularize
+  noun = open("subjects/#{noun_file}.txt").readlines.sample.strip
 
   adjectives = [open('selected_adjectives.txt').readlines.sample(ADJECTIVE_FREQUENCIES.sample)].flatten
 
