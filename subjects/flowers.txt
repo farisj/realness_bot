@@ -1,52 +1,26 @@
-anemone
-amaryllis
-amaranth
-aster
-azalea
-babys breath
-begonia
-bellflower
-bergamot
-bird of paradise
-bluebell
-bottlebrush
 buttercup
-camellias
 carnation
-chrysantemum
-columbine
-clover
-crocus
+chrysanthemum
 daisy
 dahlia
 daffodil
-delphinium
 edelweiss
 primrose
-forget me not
-foxglove
-freesia
-gerbera daisy
-gladiolus
+forget-me-not
 hibiscus
-heather
-hyacinth
 holly
 iris
 jasmine
-ladys slipper
 lavender
 lilac
 lily
 lotus flower
 marigold
-marjoram
 mimosa
 narcissus
 orange blossom
 orchid
 peach blossom
-peony
 petunia
 rhododendron
 rosemary
@@ -54,10 +28,8 @@ rose
 sage
 snapdragon
 sunflower
-tansy
 thistle
 thyme
 tulip
 violet
 water lily
-zinnia

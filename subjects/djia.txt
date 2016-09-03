@@ -1,10 +1,8 @@
 American Express
 AT&T
 Boeing
-Caterpillar
 Chevron
 Cisco Systems
-duPont
 Exxon Mobil
 General Electric
 Goldman Sachs
@@ -14,15 +12,11 @@ IBM
 Johnson & Johnson
 JPMorgan Chase
 McDonald's
-Merck
 Microsoft
 Nike
 Pfizer
 Procter & Gamble
 Coca-Cola
-Travelers Companies
-United Technologies
-UnitedHealth Group
 Verizon Communications
 Visa
 Wal-Mart

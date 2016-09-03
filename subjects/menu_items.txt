@@ -21,7 +21,6 @@ orange
 american cheese
 green pea
 assorted cake
-apollinaris
 french fried potato
 potato salad
 baked potato
@@ -40,15 +39,11 @@ roquefort cheese
 cigar
 cucumber
 ice cream
-edam cheese
-little neck clam
 swiss cheese
-demi tasse
 tomato juice
 cracker
 spinach
 cream cheese
-assorted cake
 cafe
 lettuce
 raisin
@@ -58,47 +53,35 @@ grape
 blue point
 cup custard
 petits four
-ripe olive
-demi-tasse
 orange
 french pea
-consomme
 fruit
 buttermilk
 tomato salad
-biscuit tortoni
-boiled rice
-kaffee
 iced tea
 corned beef
 succotash
-charlotte russe
 lobster cocktail
 cucumber salad
-salted almond
 dessert
-benedictine
 cigarette
 brussels sprout
 romaine salad
 lyonnaise potato
 marmalade
-dry toast
 grape fruit
 apple sauce
 tongue
 camembert cheese
 bread and butter
-queen olive
 little neck
 chow chow
 chicken
-cold roast beef
+roast beef
 milk toast
 watermelon
 macaroon
-lettuce and tomato salad
-fried egg plant
+fried eggplant
 shrimp cocktail
 club sandwich
 pear
@@ -111,17 +94,14 @@ mutton chop
 lamb chop
 corned beef hash
 brie
-creme de menthe
 cafe noir
-french pastry
+pastry
 sweet pickle
 cold ham
-mince pie
 coffee ice cream
 roman punch
 smoked salmon
 peach melba
-welsh rarebit
 fruit salad
 shrimp salad
 assorted cake
@@ -136,14 +116,12 @@ pumpkin pie
 orange juice
 fried egg
 iced coffee
-white rock
 rice pudding
 pear
 boiled egg
 escarole salad
-baked apple with cream
+baked apple
 oatmeal
-cherrystone
 nut
 chicory salad
 salad
@@ -154,20 +132,14 @@ half grapefruit
 buttered toast
 green olive
 caviar
-sanka
 neapolitan ice cream
-edam
-squab
 fig
 turkish coffee
 cream toast
 clam chowder
 beet
 cantaloupe
-nesselrode pudding
-blue point oyster
 gorgonzola
-new string bean
 bacon and egg
 stuffed olive
 artichoke
@@ -185,28 +157,22 @@ pickle
 lemonade
 turkey
 gherkin
-cold slaw
 lamb
 gruyere
 neufchatel
-orange water ice
 cocktail sauce
 toast
 roll
 oyster stew
 liqueur
-postum
-lemon water ice
+lemon water
 hominy
 almond
 pound cake
 fried sweet potato
 vanilla ice cream
-saratoga chip
 celery salad
-cherrystone clam
 new pea
-golden buck
 grapefruit juice
 chicken broth
 gorgonzola cheese
@@ -217,11 +183,10 @@ pork chop
 stewed tomato
 fruit cocktail
 sweet potato
-french coffee
+coffee
 salted nut
 pickled beet
 stewed prune
-thee
 creamed spinach
 saute potato
 green pea
@@ -229,52 +194,34 @@ radis
 small steak
 hot roll
 cake
-meringue glacee
 chicken salad
 johannis
 cold corned beef
 russian dressing
 port
 tomato
-chiffonade salad
-anisette
 mashed turnip
-pontet canet
 french pea
 clam broth
-liederkranz cheese
-green apple pie
+apple pie
 cake
 french dressing
-calf's liver and bacon
 cream
 virginia ham
-new lima bean
+lima bean
 watercress
 brie cheese
 candied sweet potato
 little neck clam
 sardine sandwich
-neufchatel cheese
-lynnhaven
 green corn
-amontillado
 watercress salad
 crab flake cocktail
-malaga grape
-poached egg on toast
-buckwheat cake
-roquefort cheese
-roquefort cheese
 shirred egg
 raspberry water ice
 roast chicken
 lady finger
-squab chicken
-plover
-macaroni au gratin
 strawberries and cream
-niersteiner
 manhattan
 pineapple juice
 tomato juice cocktail
@@ -284,20 +231,14 @@ currant jelly
 graham bread
 fresh fruit
 apple
-green turtle soup
 lettuce salad
-salt mackerel
 cucumber
-chartreuse
 absinthe
-chow-chow
-beluga caviar
 stuffed celery
-curacao
+curaçao
 dill pickle
 pineapple
 pickled walnut
-mixed grill
 preserves
 lobster salad
 martini
@@ -307,13 +248,8 @@ mallard duck
 roast mutton
 boiled potato
 baked sweet potato
-kummel
-new green pea
-ceylon tea
-clam juice cocktail
 vermouth
 pommard
-biscuit glace
 broiled bacon
 hamburger steak
 hashed browned potato
@@ -321,53 +257,40 @@ lobster
 cottage cheese
 potato
 english breakfast tea
-fruchte
 honey
 peach
 endive salad
 strawberry
-cotuit
 clam juice
-queen olive
 cold tongue
 romaine
 boiled onion
 filet mignon
-prime ribs of beef
+prime ribs
 string bean
 french string bean
-prime rib of beef au jus
-mayonnaise dressing
+mayonnaise
 custard pie
-hearts of celery
 french bread
-mixed pickle
-baked idaho potato
 tomato salad
 oyster
 mayonnaise
 roast beef sandwich
-swiss cheese sandwich
 julienne potato
 fried oyster
 mixed ice cream
 spring lamb
 danish pastry
 cucumber salad
-blue point
 lemon ice
 date
 oolong tea
 corn muffin
 stilton cheese
-sauterne
-kase
 anchovy salad
-spring lamb
 baked potato
 cape cod oyster
-sliced fresh pineapple
-mutton
+pineapple
 raisin cake
 strawberry short cake
 honey dew melon
@@ -376,56 +299,38 @@ kaffee hag
 poached egg
 hashed brown potato
 corn bread
-oyster bay asparagus
-fromage
+asparagus
 fancy cake
 escarole
-pistache ice cream
-clam cocktail
-guava jelly
-medoc
-boiled sweet potato
-chilled tomato juice
+pistachio ice cream
+guava
+tomato juice
 lima bean
 fresh fruit salad
-pommery sec
 bacon
 fruit cake
 baked apple
-eggs to order
 fried ham
 toasted cracker
 american cheese
 mashed potato
 corned beef sandwich
-poussin
 tom collins
 new string bean
 chocolate ice cream
 stilton
 royal squab
-haut sauterne
 celeri
 porterhouse steak
-apollinaris water
 stuffed tomato
 coffee with cream
 potato salad
 vegetable soup
 clam fritter
-fresh shrimp cocktail
-roquefort dressing
-preserved fig
-claret
-salade
 pea
 chablis
 stuffed mango
-kirschwasser
-dubonnet
-laubenheimer
 corned beef and cabbage
-bermuda potato
 whiskey sour
 sauerkraut juice
 romaine salad
@@ -437,113 +342,64 @@ broiled chicken
 smoked beef
 sliced pineapple
 squash
-instant postum
-boiled ham
-sherbet
 jam
 strawberry shortcake
 gruyere cheese
 chicory
 fresh milk
-english mutton chop
 meringue glace
 iced tea
 wine jelly
 stewed rhubarb
-liebfraumilch
 rice
 buttered beet
-tokay grape
 cream of tomato soup
-scotch woodcock
 mock turtle soup
-chambertin
 spaghetti
 stuffed tomato
 apricot
 plain omelet
-hochheimer
 sponge cake
-pousse cafe
-table celery
-broiled fresh mushroom
-fresh strawberry
-marmelade
-yorkshire buck
-hot roast beef sandwich
-canadian club
-petite marmite
-canadian cheese
-salted almond
-bluefish
-pie a la mode
-boiled new potato
-huitres
-friandises
+mushroom
+strawberry
+roast beef sandwich
 broccoli
 kippered herring
 lemon meringue pie
 au gratin potato
-bel paese cheese
-beefsteak
-lobster a la newburg
 daiquiri
 thousand island dressing
 saratoga potato
-spanish omelette
 grand marnier
 pistachio ice cream
 broiled spring chicken
-petit four
-seltzer
 cointreau
-grape fruit
+grapefruit
 macaroni
-pickled lamb's tongue
 hot chocolate
 salat
-hafergrutze
-sirloin steak with mushroom
-radieschen
-spaghetti au gratin
 cherry
-ices in souvenir
 green tea
-creme de cacao
 mashed potato
 stuffed green peppers
 mixed nuts
-budweiser
-imported swiss cheese
 peach ice cream
 sliced orange
 rice cake
-potato parisienne
 french roll
-broiled bluefish
 sarsaparilla
-bouillon
 shredded wheat
-consomme julienne
 tangerine
 apricot brandy
-boston brown bread
 grapefruit supreme
 pickled onion
-hearts of lettuce salad
-orange pekoe tea
 american
-sanka coffee
 milk toast
 iced coffee
 rhubarb pie
-assorted cold cuts
-sliced banana
+cold cut
 cheese sandwich
 rice pudding
-spinach with egg
-fancy ice
-red leg partridge
 pork and bean
 chutney
 orange sherbet
@@ -551,136 +407,75 @@ chocolate parfait
 lobster cocktail
 haut sauterne
 apricot water ice
-chow chow
 swiss
 apple
 cranberry sauce
-canape of anchovies
-chicken consomme
-german pancake
-graves
 tapioca pudding
 apricot pie
 american cheese
 club sandwich
 roast lamb
 gin fizz
-cheese cake
+cheesecake
 cauliflower au gratin
-clam broth
-chocolate eclair
-extra sirloin steak
-philadelphia cream cheese
-cocoanut pie
+chocolate éclair
+coconut pie
 cherry pie
-english pheasant
-wheat cake
-dipped toast
-bismarck herring
 prune
 ham omelet
-assorted cheese
-cheddar cheese
-codfish cake
-soda
-american cheese sandwich
-fresh vegetable salad
 raspberry sherbet
 green pea
 apple pie
 martini cocktail
-boston baked bean
 fried oysters
 strawberry ice cream
-dutch cheese
-halibut steak
-ruddy duck
 milk
-carciofini
-nachtisch
-pate de foie gras
 fried eggs
 sliced peach
 celeri
-preserved peach
-tenderloin steak with mushrooms
-fruit in season
 roastbeef
 rum
 baked bean
-bluepoint
-potato lyonnaise
-cervelat
 caviar
-fried hominy
 lemon sherbet
 dandelion salad
 camembert cheese
 lemon soda
-lobster newburg
 port salut
 combination salad
-extra special heavy cream
 breakfast bacon
 egg plant
 omelet
-rudesheimer
 rye bread
-leberwurst
 manhattan cocktail
-fresh string bean
 fried clam
 cole slaw
 ox tongue
-chocolate eclair
-sardellen
-cheese and cracker
 corn fritter
 french asparagus
-spanish olive
 baked potato
 potato croquette
 caramel custard
 crabmeat cocktail
-crab flake cocktail
 strawberry ice cream
 champagne
-clam stew 
+clam stew
 asparagus tip
-orange ice
 chicken salad sandwich
 mixed green salad
 watercress salad
-fried oyster crab
-potato hashed in cream
-poland water
 chef's salad
-apfelsinen
-baked alaska
 sliced chicken
-apple juice
-coupe of fresh strawberries
-petits four
 camembert cheese
 celery salad
-lyon sausage
-russian caviar
-fresh strawberry ice cream
-cold chicken
-mixed ice cream
 champagne cocktail
 cocktail
-haricots verts
 grape nuts
 blueberry pie
 eclair
-preserved skinless fig
 ice cream
 julienne
 stewed pear
-onion soup au gratin
-cup custard
-obst
 soft shell crab
 crackers and milk
 butter
@@ -691,40 +486,11 @@ saucisson de lyon
 boiled rice
 raspberry
 caviar sandwich
-cold turkey
-crab meat cocktail
-pot of tea
-spaghetti italienne
-heart of lettuce salad
-oyster patty
 french toast
-old fashioned
-melon in season
-alligator pear salad
 anchovy
-cook's imperial
-zeltinger
-muffins
-amandes salees
-stuffed olive
-port du salut
-pastry
-bent's water cracker
 side car
-chianti
-peach short cake
-nuts and raisin
-fried soft shell crab
-clam
-stewed potato
-terrapin
-frische milch
 potato
-mumm's extra dry
-compot
-marinated herring
 coffee
-clear green turtle soup
 salami
 chicken okra soup
 bacardi cocktail
@@ -738,35 +504,22 @@ macon
 neapolitan
 figs in syrup
 lady fingers
-stuffed figs and dates
+stuffed fig
 oatmeal porridge
 mixed salad
 cheese omelette
 strawberry jam
-macaroni au gratin
 fried scallop
-nesselrode pudding
-sliced bananas and cream
-irish stew
-cafe turc
 oyster fry
-fancy ice cream
 fresh mackerel
-vienna bread
 grape juice
-escarole salad
-clysmic
-brawn
-brook trout
 fried onion
-fresh strawberries and cream
+fresh strawberry and cream
 bologna sausage
 assorted nut
-welsh rarebit
 chicken sandwich
 chicken
 clear green turtle
-rockaway
 biscuit
 fried bacon
 blackberry
@@ -775,31 +528,21 @@ salted almond
 young onion
 onions
 club soda
-ribs of beef 
+beef rib
 roast lamb
-graham roll
-new potato
 cream cheese
 squab chicken
-old tom gin
 shrimp
 concombre
 steamed rice
-drambuie
 coffee ice cream
-whitebait
-consomme vermicelli
 crab meat salad
-india relish
-gebackene kartoffeln
 rice and milk
 lobster
 fresh asparagus
 venison
 sparkling moselle
-lettuce and tomato sandwich
 ham sandwich
-curried chicken with rice
 gin rickey
 cocktail
 head cheese
@@ -809,10 +552,6 @@ assorted fresh fruit
 soup du jour
 scotch grouse
 cold rice pudding
-porterhouse steak with mushroom
-pear melba
-sirloin steak
-chicory salad
 brandy peach
 plain lemonade
 coffee
@@ -820,14 +559,10 @@ roast turkey
 cranberry sauce
 sherry flip
 mango
-salade de saison
-raspberry jam
-fresh fruit cocktail
 fried sweet potato
 fish cakes
 claret punch
 westphalia ham
-lettuce and tomatoes
 lamb
 mint sauce
 rolls and butter
@@ -835,93 +570,62 @@ spinach with egg
 fried smelt
 oyster stew
 maple syrup
-macedoine salad
-canvas-back duck
-sirloin steak with onion
 coffee
 smoked beef tongue
-tutti frutti ice cream
 strawberries with cream
 corn cake
 ham omelette
 waffle
-chocolade
 spanish omelet
 sloe gin
-red-head duck
 glass of milk
-sliced bananas with cream
 brandy
 vermouth
-canape of caviar
-julienne soup
-shirred eggs
+shirred egg
 salmon salad
-broiled squab
-oyster bay asparagus
-vienna roll
-mettwurst
 silver fizz
 crab salad
-pickled oyster
 alligator pear
 caviar canape
 prune juice
 tongue sandwich
-pistache ice cream
 mock turtle
 new asparagus
-gervais
-potato julienne
 gumbo
 malted milk
 chicken soup
 capon
-beef consomme
 corn flake
-crabflake cocktail
-assorted hors d'oeuvres
+hors d'oeuvres
 ham and egg
 ribs of prime beef
 beef tongue
 cream
 sauerkraut
 stewed oyster
-finnan haddie
 sloe gin fizz
 american coffee
-crab meat cocktail
-liver and bacon
 fresh mushroom
 lemon pie
 pie
 cold consomme
 chocolate sundae
-consomme en tasse
 dill pickle
-port du salut cheese
 pink lady
 bacon and egg
 broiled chicken
 country sausage
 turnip
-graham wafer
-broiled oyster
-gekochte kartoffeln
-stewed strawberry
-cafe noir
 waldorf salad
-baked apples with cream
+baked apple
 liver sausage
 boston cream pie
 spring onions
 lamb chop
-potato o'brien
 tomato broth
 roast beef
 roast potato
 fruits in season
-boned capon
 eclair
 spring chicken
 cauliflower
@@ -929,19 +633,12 @@ hashed browned potato
 corn fritter
 fruit salad
 lemon water ice
-milchreis
 caviar on toast
-rostbraten
-chateau yquem
 spring turkey
 clam broth
-new beets
 lemon ice cream
-crullers
-cacao
 jamaica rum
 water cracker
-petits poi
 chocolate layer cake
 apple fritter
 pineapple water ice
@@ -949,25 +646,13 @@ french sardine
 fresh fruit cup
 long island duckling
 cream toast
-malaga grape
 boiled onion
-hamburg steak
-margaux
-beaune
-golden plover
 french vanilla ice cream
 jelly
-combination salad
 ginger
-ruinart brut
 lamb chop
 pumpkin pie
 olive
 sliced cucumber
-old tom
-strained honey
-tomato omelette
 vegetable salad
-pineapple cheese
 german fried potato
-blackberry brandy

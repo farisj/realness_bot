@@ -1,14 +1,9 @@
-aerary
 aircraft cabin
 airport lounge
 alcove
-anatomical theatre
-anechoic chamber
 antechamber
-anteroom
 armory
 assembly room
-atelier
 attic
 auditorium
 backroom
@@ -24,15 +19,12 @@ breakfast nook
 breezeway
 cabin
 cafeteria
-caldarium
 cellar
 changing room
 chapel
 classroom
-clean room
 cloakroom
 closet
-cold room
 common room
 computer lab
 conference room

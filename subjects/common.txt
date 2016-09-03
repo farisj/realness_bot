@@ -56,9 +56,7 @@ hippopotamus
 hog
 horse
 hyena
-ibex
 iguana
-impala
 jackal
 jaguar
 kangaroo
@@ -69,10 +67,7 @@ leopard
 lion
 lizard
 llama
-lynx
-mandrill
 marmoset
-mink
 mole
 mongoose
 monkey
@@ -82,12 +77,10 @@ mouse
 mule
 muskrat
 mustang
-mynah bird
 newt
 ocelot
 opossum
 orangutan
-oryx
 otter
 ox
 panda
@@ -111,8 +104,6 @@ rhinoceros
 salamander
 seal
 sheep
-shrew
-silver fox
 skunk
 sloth
 snake

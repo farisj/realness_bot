@@ -1,47 +1,30 @@
-aioli
 barbecue sauce
-brown mustard
-chili pepper
 chili sauce
-chili oil
-chimichurri
 chutney
 cocktail sauce
 crushed red pepper
-dijon ketchup
 dijon mustard
-dip
 fish paste
 fish sauce
-fritessaus
 fruit preserve
 fry sauce
-gochujang
 guacamole
 honey dill
 horseradish
 hot mustard
 hot sauce
-kachumbari
-kachumber
 ketchup
-fruit ketchup
 banana ketchup
 curry ketchup
 kimchi
-khrenovina
-kyopolou
 mayonnaise
 mumbo sauce
 mushroom ketchup
 mustard
-mostarda
 mustard oil
-nutritional yeast
 olive oil
 pepper jelly
 pesto
-pickled fruit
 pico de gallo
 mango pickle
 pickled cucumber
@@ -52,22 +35,16 @@ relish
 remoulade
 salad cream
 salad dressing
-salmoriglio
 salsa
-salsa golf
 salt
 salt and pepper
-sambal
 sauerkraut
 sesame oil
 soy sauce
 sriracha
 steak sauce
-sumbala
-sweet chilli sauce
 syrup
 tartar sauce
 teriyaki sauce
 vinegar
 black vinegar
-watermelon rind preserve

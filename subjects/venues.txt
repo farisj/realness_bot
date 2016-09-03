@@ -10,7 +10,6 @@ country dance club
 disc golf
 general entertainment
 go kart
-historic site
 laser tag
 mini golf
 movie theater
@@ -55,7 +54,6 @@ history building
 math building
 science building
 technology building
-administrative building
 auditorium
 bookstore
 cafeteria
@@ -63,7 +61,6 @@ classroom
 gym
 lab
 library
-quad
 rec center
 residence hall
 stadium
@@ -116,7 +113,8 @@ creperie
 cuban restaurant
 cupcake shop
 czech restaurant
-deli / bodega
+deli
+bodega
 dessert shop
 dim sum restaurant
 diner
@@ -138,7 +136,6 @@ gastropub
 german restaurant
 gluten-free restaurant
 greek restaurant
-bougatsa shop
 cretan restaurant
 fish taverna
 grilled meat restaurant
@@ -177,7 +174,7 @@ pie shop
 pizza place
 polish restaurant
 portuguese restaurant
-ramen / noodle house
+noodle house
 restaurant
 romanian restaurant
 russian restaurant
@@ -189,7 +186,6 @@ snack place
 soup place
 south american restaurant
 soul food restaurant
-souvlaki shop
 spanish restaurant
 paella restaurant
 sri lankan restaurant
@@ -207,7 +203,6 @@ doner restaurant
 home cooking restaurant
 kebab restaurant
 ukrainian restaurant
-west-ukrainian restaurant
 vegan restaurant
 vietnamese restaurant
 winery
@@ -271,7 +266,6 @@ fishing spot
 forest
 garden
 gun range
-harbor / marina
 hot spring
 island
 lake
@@ -293,7 +287,6 @@ rock climbing spot
 scenic lookout
 sculpture garden
 ski area
-apres ski bar
 ski chairlift
 ski chalet
 ski lodge
@@ -424,9 +417,6 @@ accessories store
 boutique
 kids store
 lingerie store
-men's store
-shoe store
-women's store
 comic shop
 construction & landscaping
 convenience store
@@ -440,11 +430,9 @@ discount store
 dive shop
 pharmacy
 dry cleaner
-ev charging station
 electronics store
 event service
 fabric shop
-financial or legal service
 fireworks store
 fishing store
 flea market
@@ -466,13 +454,12 @@ supermarket
 wine shop
 frame store
 fruit & vegetable store
-furniture / home store
 gaming cafe
 garden center
 gas station
 gift shop
 gun shop
-gym / fitness center
+fitness center
 boxing gym
 climbing gym
 cycle studio
@@ -483,7 +470,6 @@ martial arts dojo
 track
 yoga studio
 hardware store
-herbs & spices store
 hobby shop
 home service
 hunting supply
@@ -526,7 +512,8 @@ real estate office
 record shop
 recording studio
 recycling facility
-salon / barbershop
+salon
+barbershop
 shipping store
 shoe repair
 smoke shop
@@ -539,15 +526,15 @@ storage facility
 tailor shop
 tanning salon
 tattoo parlor
-thrift / vintage store
-toy / game store
+thrift store
+vintage store
+game store
 travel agency
 used bookstore
 video game store
 video store
 warehouse store
 watch repair shop
-travel & transport
 airport
 airport food court
 airport gate
@@ -555,8 +542,10 @@ airport lounge
 airport terminal
 airport tram
 plane
-bike rental / bike share
-boat or ferry
+bike rental
+bike share
+boat
+ferry
 border crossing
 bus station
 bus line

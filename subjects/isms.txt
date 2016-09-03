@@ -1,38 +1,23 @@
 abstract expressionism
 academic
-action painting
 aestheticism
 socialist realism
 art deco
 art nouveau
-avant-garde
-barbizon school
 baroque
 bauhaus
 classicism
 cobra
-color field painting
 conceptual art
 cubism
-cubo-futurism
 dada
 dadaism
-deformalism
-der blaue reiter
-divisionism
-eclecticism
-ego-futurism
 existentialism
 expressionism
-fauvism
-fluxus
 formalism
 futurism
-geometric abstraction
 gothic art
-hard-edge painting
 historicism
-hudson river school
 humanism
 hyperrealism
 idealism
@@ -40,20 +25,10 @@ illusionism
 impressionism
 incoherent
 installation art
-international gothic
-intervention art
-jugendstil
 kinetic art
-land art
 lowbrow
-luminism
-lyrical abstraction
-mail art
-manierism
 mannerism
 maximalism
-merovingian
-metaphysical art 
 minimalism
 modern art
 modernism
@@ -63,68 +38,39 @@ naturalism
 neo-classicism
 neo-dada
 neo-expressionism
-neo-fauvism
 neo-geo
 neo-impressionism
 neo-minimalism
 neoclassicism
 neoclassicism
 neoism
-neue slowenische kunst
-new media art
-new objectivity
 nonconformism
-nouveau realisme
-op art
-orphism
-ottonian
-outsider art
-performance art
-perspectivism
 photorealism
 pointilism
 pop art
 post-impressionism
 post-minimalism
-post-painterly abstraction
 post-structuralism
 postminimalism
 postmodern art
 postmodernism
 post-conceptualism
-pre-raphaelite
 precisionism
 primitivism
-purism
-rayonism
 realism
 relational art
-remodernism
 renaissance
 rococo
 romanesque
 romanticism
-russian futurism
-russian symbolism
-scuola romana
 secularism
-situationist international
 social realism
 socialist realism
 sound art
 street art
 structuralism
-stuckism
-superflat
-superstroke
-suprematism
 surrealism
 symbolism
-synchromism
-synthetism
-systems art
-tonalism
 video art
 video game art
 vorticism
-young british artists

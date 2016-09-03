@@ -3,15 +3,15 @@ Christmas ornament
 acorn
 apple
 bag
-bag of cotton ball
-bag of popcorn
-bag of rubber band
-ball of yarn
+cotton ball bag
+popcorn bag
+rubber band bag
+yarn ball
 balloon
 banana
 bandana
 bangle bracelet
-bar of soap
+soap bar
 baseball
 baseball bat
 baseball hat
@@ -24,39 +24,38 @@ bell
 belt
 blouse
 blowdryer
-bonesaw
 book
-book of jokes
-book of matches
+joke book
+matchbook
 bookmark
 boom box
 bottle
 bottle cap
-bottle of glue
-bottle of honey
-bottle of ink
-bottle of lotion
-bottle of nail polish
-bottle of oil
-bottle of paint
-bottle of perfume
-bottle of pills
-bottle of soda
-bottle of sunscreen
-bottle of syrup
-bottle of water
-bouquet of flowers
+glue bottle
+honey bottle
+ink bottle
+lotion bottle
+nail polish bottle
+oil bottle
+paint bottle
+perfume bottle
+pill bottle
+soda bottle
+sunscreen bottle
+syrup bottle
+water bottle
+flower bouquet
 bow
 bow tie
 bowl
 box
-box of Q-tips
-box of baking soda
-box of chalk
-box of chocolates
-box of crayons
-box of markers
-box of tissues
+Q-tip box
+baking soda box
+chalk box
+chocolate box
+crayon box
+marker box
+tissue box
 bracelet
 bread
 broccoli
@@ -65,10 +64,10 @@ buckle
 butter knife
 button
 camera
-can of beans
+canned bean
 can of chili
-can of peas
-can of whipped cream
+canned pea
+whipped cream
 candle
 candlestick
 candy bar
@@ -80,7 +79,7 @@ car
 card
 carrot
 car
-carton of ice cream
+ice cream carton
 cat
 catalogue
 cell phone
@@ -106,7 +105,7 @@ comb
 comic book
 computer
 conditioner
-container of pudding
+pudding container
 cookie jar
 cookie tin
 cork
@@ -120,7 +119,7 @@ crowbar
 cucumber
 cup
 dagger
-deodorant 
+deodorant
 desk
 dictionary
 dog
@@ -175,7 +174,6 @@ hand bag
 hand fan
 hand mirror
 handbasket
-handful of change
 handheld game system
 hanger
 harmonica
@@ -187,9 +185,9 @@ ice pick
 incense holder
 ipod
 ipod charger
-jar of jam
-jar of peanut butter
-jar of pickles
+jam jar
+peanut butter jar
+pickle jar
 jigsaw puzzle
 key
 key chain
@@ -223,10 +221,8 @@ martini glass
 matchbook
 microphone
 milk
-miniature portrait
 mirror
 mobile phone
-model car
 money
 monitor
 mop
@@ -247,8 +243,8 @@ orange
 outlet
 pack of cards
 package of crisp and crunchy edibles
-package of glitter
-packet of seeds
+glitter package
+seed packet
 pail
 paint brush
 paintbrush
@@ -300,7 +296,6 @@ pop can
 postage stamp
 puddle
 purse
-purse/bag
 quartz crystal
 quilt
 rabbit
@@ -357,11 +352,11 @@ soccer ball
 sock
 sofa
 spatula
-speakers 
+speakers
 spectacle
 spice bottle
 sponge
-spool of ribbon
+ribbon spool
 spool of string
 spool of thread
 spool of wire
@@ -372,7 +367,7 @@ squirt gun
 statuette
 steak knife
 stick
-stick of incense
+incense stick
 sticker book
 sticky note
 stocking
@@ -412,8 +407,8 @@ toy top
 trash bag
 tree
 truck
-tube of lip balm
-tube of lipstick
+lip balm
+lipstick tube
 turtle
 tv
 tweezer

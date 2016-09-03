@@ -1,51 +1,37 @@
 accountant
 actor
 actuary
-adhesive bonding machine tender
 adjudicator
 administrative assistant
-administrative services manager
 adult education teacher
 advertising manager
 advertising sales agent
 aerobics instructor
 aerospace engineer
-aerospace engineering technician
 agent
 agricultural engineer
-agricultural equipment operator
-agricultural grader
 agricultural inspector
 agricultural manager
-agricultural sciences teacher
-agricultural sorter
-agricultural technician
 agricultural worker
 air conditioning installer
 air conditioning mechanic
 air traffic controller
-aircraft cargo handling supervisor
 aircraft mechanic
 aircraft service technician
 airline copilot
 airline pilot
 ambulance dispatcher
 ambulance driver
-amusement machine servicer
 anesthesiologist
 animal breeder
 animal control worker
 animal scientist
 animal trainer
 animator
-answering service operator
 anthropologist
-apparel patternmaker
 apparel worker
-arbitrator
 archeologist
 architect
-architectural drafter
 architectural manager
 archivist
 art director
@@ -58,8 +44,6 @@ athletic trainer
 ATM machine repairer
 atmospheric scientist
 attendant
-audio and video equipment technician
-audio-visual and multimedia collections specialist
 audiologist
 auditor
 author
@@ -79,20 +63,14 @@ behavioral disorder counselor
 bellhop
 bench carpenter
 bicycle repairer
-bill and account collector
 billing and posting clerk
 biochemist
 biological technician
 biomedical engineer
 biophysicist
-blaster
 blending machine operator
-blockmason
-boiler operator
 boilermaker
 bookkeeper
-boring machine tool tender
-brazer
 brickmason
 bridge and lock tender
 broadcast news analyst
@@ -102,7 +80,6 @@ budget analyst
 building inspector
 bus mechanic
 butcher
-buyer
 cabinetmaker
 cafeteria attendant
 cafeteria cook
@@ -117,9 +94,7 @@ cashier
 caster
 ceiling tile installer
 cellular equipment installer
-cement masonchanneling machine operator
 chauffeur
-checker
 chef
 chemical engineer
 chemical plant operator
@@ -175,9 +150,7 @@ construction inspector
 construction manager
 construction painter
 construction worker
-continuous mining machine operator
 convention planner
-conveyor operator
 cook
 cooling equipment operator
 copy marker
@@ -186,7 +159,6 @@ correctional treatment specialist
 correspondence clerk
 correspondent
 cosmetologist
-cost estimator
 costume attendant
 counseling psychologist
 counselor
@@ -206,7 +178,6 @@ customer service representative
 cutter
 cutting machine operator
 dancer
-data entry keyer
 database administrator
 decorating worker
 delivery services driver
@@ -215,20 +186,15 @@ dental assistant
 dental hygienist
 dental laboratory technician
 dentist
-derrick operator
 designer
 desktop publisher
 detective
-diagnostic medical sonographer
 die maker
 diesel engine specialist
-dietetic technician
 dietitian
-dinkey operator
 director
 dishwasher
 dispatcher
-door-to-door sales worker
 drafter
 dragline operator
 drama teacher
@@ -237,7 +203,6 @@ dressing room attendant
 dressmaker
 drier operator
 drilling machine tool operator
-dry-cleaning workerdrywall installer
 dyeing machine operator
 earth driller
 economics teacher
@@ -249,9 +214,7 @@ electrical electronics drafter
 electrical engineer
 electrical equipment assembler
 electrical installer
-electrical power-line installer
 electrician
-electro-mechanical technician
 elementary school teacher
 elevator installer
 elevator repairer
@@ -302,7 +265,6 @@ film and video editor
 financial analyst
 financial examiner
 financial manager
-financial services sales agent
 fine artist
 fire alarm system installer
 fire dispatcher
@@ -320,7 +282,6 @@ floor finisher
 floor layer
 floor sander
 floral designer
-food batchmaker
 food cooking machine operator
 food preparation worker
 food science technician
@@ -337,7 +298,6 @@ forest worker
 forester
 forestry teacher
 forging machine setter
-foundry coremaker
 freight agent
 freight mover
 fundraising manager
@@ -367,7 +327,6 @@ geological engineer
 geological technician
 geoscientist
 glazier
-government program eligibility interviewer
 graduate teaching assistant
 graphic designer
 groundskeeper
@@ -390,7 +349,6 @@ health services manager
 health specialties teacher
 healthcare social worker
 hearing officer
-heat treating equipment setter
 heating installer
 heating mechanic
 heavy truck driver
@@ -420,7 +378,6 @@ industrial engineering technician
 industrial machinery mechanic
 industrial production manager
 industrial truck operator
-industrial-organizational psychologist
 information clerk
 information research scientist
 information security analyst
@@ -501,7 +458,6 @@ manufactured building installer
 mapping technician
 marble setter
 marine engineer
-marine oiler
 market research analyst
 marketing manager
 marketing specialist
@@ -513,7 +469,6 @@ materials scientist
 mathematical science teacher
 mathematical technician
 mathematician
-maxillofacial surgeon
 measurer
 meat cutter
 meat packer
@@ -544,20 +499,15 @@ metal patternmaker
 metal pickling operator
 metal pourer
 metal worker
-metal-refining furnace operator
-metal-refining furnace tender
 meter reader
 microbiologist
 middle school teacher
-milling machine setter
-millwright
 mine cutting machine operator
 mine shuttle car operator
 mining engineer
 mining safety engineer
 mining safety inspector
 mining service unit operator
-mixing machine setter
 mobile heavy equipment mechanic
 mobile home installer
 model maker
@@ -581,7 +531,6 @@ naval architect
 network systems administrator
 new accounts clerk
 news vendor
-nonfarm animal caretaker
 nuclear engineer
 nuclear medicine technologist
 nuclear power reactor operator
@@ -591,12 +540,9 @@ nursing instructor
 nursing teacher
 nutritionist
 obstetrician
-occupational health and safety specialist
-occupational health and safety technician
 occupational therapist
 occupational therapy aide
 occupational therapy assistant
-offbearer
 office clerk
 office machine operator
 operating engineer
@@ -607,15 +553,12 @@ optician
 optometrist
 oral surgeon
 order clerk
-order filler
-orderly
-ordnance handling expert
 orthodontist
 orthotist
 outdoor power equipment mechanic
 oven operator
 packaging machine operator
-painter 
+painter
 painting worker
 paper goods machine setter
 paperhanger
@@ -632,12 +575,8 @@ personal care aide
 personal chef
 personal financial advisor
 pest control worker
-pesticide applicator
-pesticide handler
-pesticide sprayer
 petroleum engineer
 petroleum gauger
-petroleum pump system operator
 petroleum refinery operator
 petroleum technician
 pharmacist
@@ -654,7 +593,6 @@ physical therapist
 physician assistant
 physician
 physicistphysics teacher
-pile-driver operator
 pipefitter
 pipelayer
 planing machine operator
@@ -673,7 +611,6 @@ political science teacher
 political scientist
 postal service clerk
 postal service mail carrier
-postal service mail processing machine operator
 postal service mail processor
 postal service mail sorter
 postmaster
@@ -721,7 +658,6 @@ radiologic technologist
 rail car repairer
 rail transportation worker
 rail yard engineer
-rail-track laying equipment operator
 railroad brake operator
 railroad conductor
 railroad police
@@ -736,9 +672,7 @@ record clerk
 recreation teacher
 recreation worker
 recreational therapist
-recreational vehicle service technician
 recyclable material collector
-referee
 refractory materials repairer
 refrigeration installer
 refrigeration mechanic
@@ -747,7 +681,6 @@ regional planner
 registered nurse
 rehabilitation counselor
 reinforcing iron worker
-reinforcing rebar worker
 religion teacher
 religious activities director
 religious worker
@@ -761,12 +694,9 @@ respiratory therapy technician
 retail buyer
 retail salesperson
 revenue agent
-rigger
 rock splitter
 rolling machine tender
-roof bolter
 roofer
-rotary drill operator
 roustabout
 safe repairer
 sailor
@@ -788,7 +718,6 @@ securities sales agent
 security guard
 security system installer
 segmental paver
-self-enrichment education teacher
 semiconductor processor
 septic tank servicer
 set designer
@@ -797,7 +726,6 @@ sewing machine operator
 shampooer
 shaper
 sheet metal worker
-sheriff's patrol officer
 ship captain
 ship engineer
 ship loader
@@ -832,7 +760,6 @@ sound engineering technician
 space scientist
 special education teacher
 speech-language pathologist
-sports book runner
 sports entertainer
 sports performer
 stationary engineer
@@ -845,7 +772,6 @@ stonemason
 street vendor
 streetcar operator
 structural iron worker
-structural metal fabricator
 structural metal fitter
 structural steel worker
 stucco mason
@@ -872,13 +798,10 @@ teacher assistant
 teacher
 team assembler
 technical writer
-telecommunications equipment installer
 telemarketer
 telephone operator
 television announcer
 teller
-terrazzo finisher
-terrazzo worker
 tester
 textile bleaching operator
 textile cutting machine setter
@@ -892,12 +815,11 @@ tile setter
 timekeeping clerk
 timing device assembler
 tire builder
-tire changertire repairer
+tire changer
+tire repairer
 title abstractor
 title examiner
 title searcher
-tobacco roasting machine operator
-tool filer
 tool grinder
 tool maker
 tool sharpener

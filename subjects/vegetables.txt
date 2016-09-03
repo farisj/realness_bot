@@ -1,36 +1,26 @@
 acorn squash
 alfalfa sprout
-amaranth
 anise
 artichoke
 arugula
 asparagus
-aubergine
-azuki bean
-banana squash
 basil
 bean sprout
 beet
 black bean
 black-eyed pea
 bok choy
-borlotti bean
-broad bean
 broccoflower
 broccoli
-brussels sprout
+brussel sprout
 butternut squash
 cabbage
-calabrese
-caraway
 carrot
 cauliflower
 cayenne pepper
-celeriac
 celery
 chamomile
 chard
-chayote
 chickpea
 chive
 cilantro
@@ -40,52 +30,41 @@ corn salad
 courgette
 cucumber
 daikon
-delicata
 dill
 eggplant
 endive
 fennel
 fiddlehead
-frisee
 garlic
 gem squash
 ginger
 green bean
 green pepper
 habanero
-herbs and spice
 horseradish
-hubbard squash
 jalapeno
-jerusalem artichoke
 jicama
 kale
 kidney bean
-kohlrabi
 lavender
-leek 
+leek
 legume
 lemon grass
 lentil
 lettuce
 lima bean
-mamey
-mangetout
 marjoram
 mung bean
 mushroom
 mustard green
 navy bean
 nettles
-new zealand spinach
-nopale
 okra
 onion
 oregano
 paprika
 parsley
 parsnip
-patty pan
 pea
 pinto bean
 potato
@@ -99,19 +78,16 @@ rutabaga
 sage
 scallion
 shallot
-skirret
 snap pea
 soy bean
 spaghetti squash
 spinach
-squash 
+squash
 sweet potato
 tabasco pepper
 taro
-tat soi
 thyme
 tomato
-topinambur
 tuber
 turnip
 wasabi
