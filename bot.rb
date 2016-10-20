@@ -41,7 +41,7 @@ CLOSING_PHRASES = [
   " eleganza."
 ].flatten
 
-ADJECTIVE_FREQUENCIES = [1, 1, 1, 1, 2]
+ADJECTIVE_FREQUENCIES = [1, 2, 3, 3, 4, 4]
 
 sentence = "." * 141
 
